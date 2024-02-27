@@ -2,7 +2,7 @@
   "name": "parcel-project-geodez",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://fry8778.github.io/parcel-project-geodez",
+  "homepage": "https://fry8778.github.io/parcel-project-geodez/ .",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-geodez/"
